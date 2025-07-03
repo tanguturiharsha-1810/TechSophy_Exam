@@ -1,0 +1,106 @@
+Date,Description,Merchant,Category,Amount
+2023-04-13,Uber purchase,Uber,Food ,36.24
+2023-03-13,Shell purchase,Shell,HEALTH,
+,Subway purchase,Subway,Transport,0.19
+2023-03-29,Shell purchase,Shell,food,103.54
+2023-04-10,Amazon purchase,Amazon, Health,59.81
+2023-11-05,Delta purchase,Delta, Health,
+2023-09-15,Uber purchase,Uber,HEALTH,55.83
+,Walmart purchase,Walmart,,52.95
+2023-10-04,Subway purchase,Subway,Transport,
+2023-09-10,Subway purchase,Subway,shopping,88.47
+2023-08-24,Starbucks purchase,Starbucks,Food ,50.56
+2023-06-19,Amazon purchase,Amazon,transportation,39.31
+2023-07-07,Shell purchase,Shell,food,32.42
+2023-06-24,Uber purchase,Uber,,-3.49
+2023-02-20,Starbucks purchase,Starbucks,shopping,53.56
+2023-05-11,Amazon purchase,Amazon,,49.13
+2023-11-03,McDonalds purchase,McDonalds,Shopping,36.87
+2023-10-01,Uber purchase,Uber,HEALTH,97.82
+2023-03-30,Delta purchase,Delta,Shopping,34.98
+2023-12-06,Uber purchase,Uber,transportation,42.71
+2023-04-02,Starbucks purchase,Starbucks,transportation,24.46
+2023-09-21,Amazon purchase,Amazon,Shopping,45.96
+2023-02-04,Amazon purchase,Amazon,Shopping,44.26
+2023-12-26,McDonalds purchase,McDonalds, Health,1194.6
+2023-01-02,Walmart purchase,Walmart,Food ,15.55
+,Apple purchase,Apple,FOOD,41.17
+2023-11-06,Apple purchase,Apple,,-4.46
+2023-09-27,CVS purchase,CVS,transportation,23.9
+2023-12-17,Starbucks purchase,Starbucks,Transport,24.77
+,Uber purchase,Uber,Food ,10.42
+2023-02-22,Uber purchase,Uber,Food ,61.52
+2023-07-07,Walmart purchase,Walmart,,52.15
+2023-02-10,CVS purchase,CVS,Food ,28.91
+2023-12-11,Starbucks purchase,Starbucks,Food ,37.17
+,Starbucks purchase,Starbucks,Shopping,3.11
+2023-05-16,Delta purchase,Delta,Food ,15.83
+2023-03-04,Shell purchase,Shell,Shopping,
+2023-06-12,Subway purchase,Subway,shopping,72.19
+2023-10-16,Delta purchase,Delta,HEALTH,0.69
+2023-01-28,Apple purchase,Apple,Shopping,54.34
+2023-05-15,Apple purchase,Apple,,45.79
+2023-02-02,Uber purchase,Uber,Shopping,79.12
+2023-02-17,Shell purchase,Shell,FOOD,86.72
+,Subway purchase,Subway,,21.9
+2023-04-09,McDonalds purchase,McDonalds,Food ,
+2023-02-04,McDonalds purchase,McDonalds, Health,65.95
+2023-08-15,Delta purchase,Delta,Food ,59.04
+,McDonalds purchase,McDonalds,Transport,33.87
+2023-01-05,Amazon purchase,Amazon, Health,87.39
+2023-12-25,Apple purchase,Apple,Shopping,58.45
+,Shell purchase,Shell,FOOD,-15.49
+2023-02-11,Subway purchase,Subway,Transport,70.55
+2023-06-28,CVS purchase,CVS,transportation,52.18
+2023-02-21,Uber purchase,Uber,HEALTH,
+2023-04-06,Uber purchase,Uber,FOOD,
+2023-08-19,Walmart purchase,Walmart,Shopping,60.6
+,Subway purchase,Subway,food,14.54
+2023-01-13,McDonalds purchase,McDonalds, Health,0.17
+2023-07-06,Uber purchase,Uber,Food ,67.62
+2023-06-19,Shell purchase,Shell,FOOD,59.02
+2023-02-14,CVS purchase,CVS,HEALTH,34.74
+,Starbucks purchase,Starbucks,Transport,42.1
+2023-01-28,Subway purchase,Subway,shopping,792.6
+2023-11-27,Apple purchase,Apple,Transport,15.03
+,CVS purchase,CVS,transportation,32.45
+2023-10-10,Shell purchase,Shell,food,41.81
+2023-05-01,Walmart purchase,Walmart,Food ,57.4
+2023-12-25,Starbucks purchase,Starbucks,Shopping,56.53
+2023-07-17,McDonalds purchase,McDonalds,HEALTH,-327.59999999999997
+,Shell purchase,Shell,Transport,58.64
+2023-08-13,Subway purchase,Subway,Food ,41.43
+2023-11-11,Walmart purchase,Walmart,transportation,29.94
+2023-06-09,CVS purchase,CVS,FOOD,97.15
+2023-04-23,Walmart purchase,Walmart,Transport,54.36
+2023-11-14,McDonalds purchase,McDonalds,Transport,49.54
+2023-04-23,Amazon purchase,Amazon,,8.16
+2023-04-11,CVS purchase,CVS,food,51.51
+,Apple purchase,Apple,,111.58
+2023-12-09,Delta purchase,Delta,food,61.94
+2023-05-06,Subway purchase,Subway,Shopping,43.52
+2023-05-10,Shell purchase,Shell,shopping,-12.47
+2023-07-17,Shell purchase,Shell,,87.01
+2023-09-04,Shell purchase,Shell,FOOD,78.57
+2023-05-03,Apple purchase,Apple,transportation,68.8
+2023-09-12,Shell purchase,Shell,transportation,46.57
+2023-04-08,Starbucks purchase,Starbucks,Transport,85.03
+2023-07-17,Amazon purchase,Amazon,Shopping,80.45
+2023-05-24,Uber purchase,Uber,,40.26
+2023-04-07,Uber purchase,Uber,food,50.7
+2023-12-15,Walmart purchase,Walmart,HEALTH,20.07
+2023-09-16,Shell purchase,Shell,transportation,92.67
+2023-12-12,Uber purchase,Uber,FOOD,71.84
+2023-05-27,Amazon purchase,Amazon,,31.99
+2023-05-08,Uber purchase,Uber,HEALTH,
+2023-02-08,Apple purchase,Apple,shopping,30.42
+2023-05-31,Delta purchase,Delta,Food ,41.95
+2023-10-25,Shell purchase,Shell, Health,
+2023-12-12,Subway purchase,Subway,Transport,19.23
+2023-04-22,Uber purchase,Uber,Food ,84.1
+2023-01-02,CVS purchase,CVS,,113.48
+,Apple purchase,Apple,,111.58
+2023-05-31,Delta purchase,Delta,Food ,41.95
+2023-12-12,Uber purchase,Uber,FOOD,71.84
+2023-02-20,Starbucks purchase,Starbucks,shopping,53.56
+2023-01-02,CVS purchase,CVS,,113.48
