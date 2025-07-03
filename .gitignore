@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment variables
+.env
+
+# VS Code settings
+.vscode/
+
+# Data files
+*.csv
+!data/messy_transactions_1200.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python virtual environments
+env/
+.venv/
+venv/
+ENV/
+
+# Logs
+*.log
+
+# Gemini/Google API credentials (if any)
+*.json
