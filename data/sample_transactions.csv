@@ -1,0 +1,1001 @@
+Date,Description,Merchant,Category,Amount
+2023-05-27,Walgreens purchase,Walgreens,Health,61.83
+2023-05-14,Best Buy purchase,Best Buy,Shopping,434.02
+2023-06-02,Uber purchase,Uber,Transport,42.67
+2023-01-06,Marriott purchase,Marriott,Travel,151.27
+2023-11-07,Walgreens purchase,Walgreens,Health,334.13
+2023-04-29,Udemy purchase,Udemy,Education,262.52
+2023-01-07,Gift Shop purchase,Gift Shop,Misc,466.51
+2023-05-09,Gift Shop purchase,Gift Shop,Misc,362.83
+2023-02-06,Electric Co purchase,Electric Co,Utilities,122.06
+2023-07-30,Udemy purchase,Udemy,Education,64.23
+2024-04-06,Uber purchase,Uber,Transport,446.8
+2023-11-05,Coursera purchase,Coursera,Education,287.48
+2023-06-01,Delta purchase,Delta,Travel,449.22
+2023-02-19,McDonald's purchase,McDonald's,Dining,432.81
+2024-01-22,Expedia purchase,Expedia,Travel,64.49
+2024-01-28,Spotify purchase,Spotify,Entertainment,241.85
+2023-09-20,Airbnb purchase,Airbnb,Travel,294.82
+2023-10-24,Skillshare purchase,Skillshare,Education,159.38
+2023-05-14,Coursera purchase,Coursera,Education,379.39
+2023-07-04,Chipotle purchase,Chipotle,Dining,153.4
+2023-09-22,Coursera purchase,Coursera,Education,269.27
+2023-10-16,ExxonMobil purchase,ExxonMobil,Transport,381.83
+2024-06-14,Hulu purchase,Hulu,Entertainment,458.89
+2024-03-06,Shell purchase,Shell,Transport,457.65
+2024-06-11,Health Clinic purchase,Health Clinic,Health,122.99
+2023-09-17,Chipotle purchase,Chipotle,Dining,140.22
+2024-01-31,Chipotle purchase,Chipotle,Dining,239.8
+2023-06-05,Health Clinic purchase,Health Clinic,Health,355.59
+2023-08-22,Expedia purchase,Expedia,Travel,86.68
+2023-04-15,eBay purchase,eBay,Shopping,65.9
+2023-05-16,Udemy purchase,Udemy,Education,113.65
+2024-06-22,Electric Co purchase,Electric Co,Utilities,130.97
+2024-01-22,Chipotle purchase,Chipotle,Dining,386.38
+2023-12-20,Coursera purchase,Coursera,Education,392.02
+2023-08-01,Gas Supply purchase,Gas Supply,Utilities,207.16
+2024-03-25,GNC purchase,GNC,Health,44.5
+2023-12-28,GNC purchase,GNC,Health,312.43
+2024-01-20,Coursera purchase,Coursera,Education,404.73
+2024-05-19,Expedia purchase,Expedia,Travel,289.31
+2023-11-25,Local Store purchase,Local Store,Misc,185.03
+2024-02-13,Target purchase,Target,Shopping,297.42
+2023-05-01,Walmart purchase,Walmart,Groceries,64.06
+2024-03-09,Udemy purchase,Udemy,Education,295.99
+2024-04-05,Spotify purchase,Spotify,Entertainment,293.04
+2024-03-18,Hulu purchase,Hulu,Entertainment,352.63
+2024-03-28,Gas Supply purchase,Gas Supply,Utilities,77.47
+2024-05-01,Amazon purchase,Amazon,Shopping,67.49
+2024-03-20,Udemy purchase,Udemy,Education,148.52
+2023-10-02,ExxonMobil purchase,ExxonMobil,Transport,128.06
+2024-01-22,Amazon purchase,Amazon,Shopping,280.0
+2024-05-07,ExxonMobil purchase,ExxonMobil,Transport,125.73
+2024-03-23,McDonald's purchase,McDonald's,Dining,458.48
+2024-02-28,Marriott purchase,Marriott,Travel,325.93
+2024-03-26,Internet Provider purchase,Internet Provider,Utilities,205.72
+2023-08-13,Expedia purchase,Expedia,Travel,13.43
+2023-04-25,Lyft purchase,Lyft,Transport,463.38
+2023-04-04,ExxonMobil purchase,ExxonMobil,Transport,116.37
+2023-08-02,CVS Pharmacy purchase,CVS Pharmacy,Health,11.39
+2023-12-06,Shell purchase,Shell,Transport,383.18
+2024-06-30,Trader Joe's purchase,Trader Joe's,Groceries,384.89
+2023-11-18,Trader Joe's purchase,Trader Joe's,Groceries,284.94
+2024-04-24,Whole Foods purchase,Whole Foods,Groceries,255.32
+2024-06-02,Target purchase,Target,Shopping,88.49
+2024-03-05,Expedia purchase,Expedia,Travel,92.26
+2024-02-25,Electric Co purchase,Electric Co,Utilities,134.93
+2023-01-02,AMC Theatres purchase,AMC Theatres,Entertainment,389.49
+2024-06-13,Gas Supply purchase,Gas Supply,Utilities,314.92
+2024-03-05,Target purchase,Target,Shopping,341.84
+2023-04-17,Expedia purchase,Expedia,Travel,355.01
+2024-05-05,Best Buy purchase,Best Buy,Shopping,283.72
+2023-11-24,Netflix purchase,Netflix,Entertainment,220.4
+2023-06-15,Hulu purchase,Hulu,Entertainment,43.81
+2023-07-15,Expedia purchase,Expedia,Travel,379.83
+2023-10-28,CVS Pharmacy purchase,CVS Pharmacy,Health,109.55
+2023-05-13,Best Buy purchase,Best Buy,Shopping,73.09
+2024-04-23,Whole Foods purchase,Whole Foods,Groceries,103.09
+2023-02-17,Costco purchase,Costco,Groceries,66.31
+2023-07-18,GNC purchase,GNC,Health,175.58
+2023-05-03,AMC Theatres purchase,AMC Theatres,Entertainment,160.99
+2024-02-12,Target purchase,Target,Shopping,303.75
+2023-08-19,Target purchase,Target,Shopping,15.4
+2023-01-05,Cash Withdrawal purchase,Cash Withdrawal,Misc,225.95
+2023-10-15,Starbucks purchase,Starbucks,Dining,58.03
+2024-04-03,ExxonMobil purchase,ExxonMobil,Transport,323.65
+2024-07-02,ExxonMobil purchase,ExxonMobil,Transport,291.73
+2024-06-11,GNC purchase,GNC,Health,463.71
+2024-06-05,Spotify purchase,Spotify,Entertainment,321.69
+2023-06-16,Trader Joe's purchase,Trader Joe's,Groceries,380.6
+2023-07-13,Donation Center purchase,Donation Center,Misc,306.77
+2023-04-02,Water Works purchase,Water Works,Utilities,82.01
+2024-02-09,Whole Foods purchase,Whole Foods,Groceries,158.9
+2023-01-15,Internet Provider purchase,Internet Provider,Utilities,316.96
+2023-04-21,Expedia purchase,Expedia,Travel,46.45
+2023-07-17,Walgreens purchase,Walgreens,Health,211.8
+2023-09-10,Delta purchase,Delta,Travel,137.85
+2023-07-02,Walgreens purchase,Walgreens,Health,210.99
+2023-07-23,edX purchase,edX,Education,110.85
+2023-08-06,Lyft purchase,Lyft,Transport,167.5
+2023-08-10,Coursera purchase,Coursera,Education,49.2
+2024-02-05,Lyft purchase,Lyft,Transport,152.52
+2023-03-19,Cash Withdrawal purchase,Cash Withdrawal,Misc,43.14
+2023-09-07,Water Works purchase,Water Works,Utilities,478.22
+2023-08-07,Shell purchase,Shell,Transport,191.75
+2024-03-28,ExxonMobil purchase,ExxonMobil,Transport,384.02
+2023-05-02,Walgreens purchase,Walgreens,Health,183.05
+2023-07-22,Target purchase,Target,Shopping,248.48
+2024-02-27,eBay purchase,eBay,Shopping,447.45
+2023-06-16,ExxonMobil purchase,ExxonMobil,Transport,307.11
+2024-03-30,Marriott purchase,Marriott,Travel,19.18
+2024-03-03,Donation Center purchase,Donation Center,Misc,28.06
+2024-04-19,Cash Withdrawal purchase,Cash Withdrawal,Misc,350.59
+2023-10-28,Hulu purchase,Hulu,Entertainment,411.92
+2024-02-09,Hulu purchase,Hulu,Entertainment,406.57
+2023-03-30,Walgreens purchase,Walgreens,Health,387.5
+2024-04-18,Gift Shop purchase,Gift Shop,Misc,401.19
+2023-07-04,Cash Withdrawal purchase,Cash Withdrawal,Misc,97.02
+2024-03-09,Delta purchase,Delta,Travel,35.68
+2023-07-18,Costco purchase,Costco,Groceries,461.46
+2023-07-16,Starbucks purchase,Starbucks,Dining,10.1
+2023-01-03,Udemy purchase,Udemy,Education,387.83
+2023-07-20,Local Store purchase,Local Store,Misc,161.47
+2023-08-20,CVS Pharmacy purchase,CVS Pharmacy,Health,424.51
+2023-06-05,Hulu purchase,Hulu,Entertainment,81.54
+2023-08-06,edX purchase,edX,Education,370.79
+2023-05-09,Health Clinic purchase,Health Clinic,Health,389.02
+2023-06-29,Gas Supply purchase,Gas Supply,Utilities,290.98
+2024-04-03,Whole Foods purchase,Whole Foods,Groceries,413.67
+2024-02-26,Hulu purchase,Hulu,Entertainment,294.51
+2023-06-12,Marriott purchase,Marriott,Travel,383.01
+2024-02-23,Hulu purchase,Hulu,Entertainment,37.8
+2023-02-15,Marriott purchase,Marriott,Travel,349.13
+2024-05-05,Chipotle purchase,Chipotle,Dining,165.16
+2023-12-24,Chipotle purchase,Chipotle,Dining,335.64
+2023-06-11,Domino's purchase,Domino's,Dining,59.8
+2023-10-06,Hulu purchase,Hulu,Entertainment,135.63
+2023-02-16,Local Store purchase,Local Store,Misc,255.84
+2023-07-17,Whole Foods purchase,Whole Foods,Groceries,498.9
+2023-06-13,Amazon purchase,Amazon,Shopping,403.99
+2023-02-06,Starbucks purchase,Starbucks,Dining,220.03
+2024-04-15,Walgreens purchase,Walgreens,Health,135.58
+2023-03-12,ExxonMobil purchase,ExxonMobil,Transport,378.79
+2023-03-08,Best Buy purchase,Best Buy,Shopping,488.84
+2023-05-10,Water Works purchase,Water Works,Utilities,257.02
+2023-10-10,Expedia purchase,Expedia,Travel,277.16
+2023-02-07,Walmart purchase,Walmart,Groceries,426.34
+2024-01-10,Water Works purchase,Water Works,Utilities,28.51
+2023-09-14,Electric Co purchase,Electric Co,Utilities,118.1
+2023-09-15,Donation Center purchase,Donation Center,Misc,337.39
+2024-02-07,Walmart purchase,Walmart,Groceries,454.48
+2023-03-11,Shell purchase,Shell,Transport,184.88
+2023-03-13,Marriott purchase,Marriott,Travel,193.14
+2024-06-28,Netflix purchase,Netflix,Entertainment,386.93
+2024-06-16,Starbucks purchase,Starbucks,Dining,436.28
+2023-04-09,Coursera purchase,Coursera,Education,378.2
+2023-03-19,Airbnb purchase,Airbnb,Travel,97.45
+2023-09-25,Starbucks purchase,Starbucks,Dining,113.8
+2023-11-12,edX purchase,edX,Education,339.99
+2023-12-05,Domino's purchase,Domino's,Dining,231.29
+2023-11-02,Uber purchase,Uber,Transport,485.63
+2024-06-17,Local Store purchase,Local Store,Misc,473.13
+2024-02-09,Costco purchase,Costco,Groceries,30.95
+2023-10-27,GNC purchase,GNC,Health,46.7
+2023-12-22,edX purchase,edX,Education,368.97
+2023-03-13,AMC Theatres purchase,AMC Theatres,Entertainment,225.94
+2024-01-04,Local Store purchase,Local Store,Misc,64.98
+2023-10-09,Marriott purchase,Marriott,Travel,166.73
+2024-04-13,Target purchase,Target,Shopping,151.7
+2023-04-04,Best Buy purchase,Best Buy,Shopping,141.63
+2023-03-03,Electric Co purchase,Electric Co,Utilities,86.73
+2023-02-11,Chipotle purchase,Chipotle,Dining,434.53
+2024-05-03,Gift Shop purchase,Gift Shop,Misc,86.92
+2023-07-28,Starbucks purchase,Starbucks,Dining,346.22
+2023-09-17,Udemy purchase,Udemy,Education,215.01
+2023-08-05,eBay purchase,eBay,Shopping,489.78
+2023-09-22,Best Buy purchase,Best Buy,Shopping,37.27
+2024-01-23,Starbucks purchase,Starbucks,Dining,409.55
+2024-04-22,Target purchase,Target,Shopping,206.26
+2023-02-26,Expedia purchase,Expedia,Travel,351.66
+2024-05-12,eBay purchase,eBay,Shopping,203.27
+2024-04-26,Target purchase,Target,Shopping,470.59
+2023-05-15,Netflix purchase,Netflix,Entertainment,57.33
+2023-02-15,Donation Center purchase,Donation Center,Misc,233.69
+2023-08-23,Amazon purchase,Amazon,Shopping,29.58
+2024-05-30,Gas Supply purchase,Gas Supply,Utilities,119.84
+2024-02-04,Uber purchase,Uber,Transport,358.1
+2023-01-13,Domino's purchase,Domino's,Dining,235.87
+2024-01-12,Donation Center purchase,Donation Center,Misc,274.88
+2023-10-16,Domino's purchase,Domino's,Dining,198.96
+2023-04-11,Cash Withdrawal purchase,Cash Withdrawal,Misc,321.02
+2023-02-09,edX purchase,edX,Education,165.69
+2024-02-14,Skillshare purchase,Skillshare,Education,180.54
+2023-07-02,Best Buy purchase,Best Buy,Shopping,76.56
+2023-01-14,CVS Pharmacy purchase,CVS Pharmacy,Health,33.85
+2024-04-20,Starbucks purchase,Starbucks,Dining,421.64
+2023-12-19,McDonald's purchase,McDonald's,Dining,40.9
+2024-01-09,Donation Center purchase,Donation Center,Misc,212.89
+2023-03-04,McDonald's purchase,McDonald's,Dining,249.19
+2023-05-02,Domino's purchase,Domino's,Dining,22.2
+2024-04-29,Target purchase,Target,Shopping,277.78
+2024-01-08,Starbucks purchase,Starbucks,Dining,25.66
+2023-03-09,Internet Provider purchase,Internet Provider,Utilities,300.49
+2024-06-22,Internet Provider purchase,Internet Provider,Utilities,241.71
+2024-04-19,Whole Foods purchase,Whole Foods,Groceries,477.28
+2024-05-20,GNC purchase,GNC,Health,477.2
+2023-02-20,Amazon purchase,Amazon,Shopping,157.49
+2023-01-20,AMC Theatres purchase,AMC Theatres,Entertainment,291.6
+2024-04-03,Hulu purchase,Hulu,Entertainment,190.57
+2023-01-16,Cash Withdrawal purchase,Cash Withdrawal,Misc,325.9
+2023-12-20,Gift Shop purchase,Gift Shop,Misc,140.2
+2023-08-05,Marriott purchase,Marriott,Travel,146.47
+2023-05-23,Spotify purchase,Spotify,Entertainment,439.11
+2023-02-11,Local Store purchase,Local Store,Misc,183.75
+2024-06-04,Health Clinic purchase,Health Clinic,Health,267.4
+2023-06-18,Uber purchase,Uber,Transport,468.37
+2024-04-23,Netflix purchase,Netflix,Entertainment,470.46
+2023-12-22,Chipotle purchase,Chipotle,Dining,268.13
+2023-03-26,ExxonMobil purchase,ExxonMobil,Transport,245.64
+2023-08-11,Electric Co purchase,Electric Co,Utilities,321.79
+2023-07-27,Internet Provider purchase,Internet Provider,Utilities,126.04
+2023-03-20,Internet Provider purchase,Internet Provider,Utilities,460.3
+2024-02-07,ExxonMobil purchase,ExxonMobil,Transport,72.61
+2023-06-25,Chipotle purchase,Chipotle,Dining,87.12
+2023-06-14,AMC Theatres purchase,AMC Theatres,Entertainment,5.08
+2023-07-20,Netflix purchase,Netflix,Entertainment,302.42
+2023-08-26,Gas Supply purchase,Gas Supply,Utilities,494.95
+2023-09-18,Whole Foods purchase,Whole Foods,Groceries,81.33
+2023-08-28,Netflix purchase,Netflix,Entertainment,119.12
+2023-01-04,Cash Withdrawal purchase,Cash Withdrawal,Misc,401.77
+2023-07-31,CVS Pharmacy purchase,CVS Pharmacy,Health,310.33
+2023-02-23,Amazon purchase,Amazon,Shopping,333.29
+2024-05-29,Best Buy purchase,Best Buy,Shopping,361.65
+2023-02-18,Health Clinic purchase,Health Clinic,Health,112.77
+2024-05-10,Cash Withdrawal purchase,Cash Withdrawal,Misc,40.93
+2023-05-17,Internet Provider purchase,Internet Provider,Utilities,115.63
+2023-05-08,Costco purchase,Costco,Groceries,206.54
+2023-10-31,Electric Co purchase,Electric Co,Utilities,44.43
+2024-01-25,Whole Foods purchase,Whole Foods,Groceries,245.79
+2024-01-01,Skillshare purchase,Skillshare,Education,149.29
+2023-05-14,Marriott purchase,Marriott,Travel,134.7
+2023-12-30,Walgreens purchase,Walgreens,Health,18.79
+2023-07-15,Skillshare purchase,Skillshare,Education,426.83
+2023-08-21,Target purchase,Target,Shopping,362.43
+2024-04-09,Trader Joe's purchase,Trader Joe's,Groceries,344.56
+2023-03-05,Coursera purchase,Coursera,Education,21.52
+2024-03-14,GNC purchase,GNC,Health,451.06
+2024-05-03,Trader Joe's purchase,Trader Joe's,Groceries,289.46
+2023-08-14,Donation Center purchase,Donation Center,Misc,374.42
+2023-03-17,McDonald's purchase,McDonald's,Dining,172.11
+2023-10-25,Water Works purchase,Water Works,Utilities,125.91
+2023-11-02,CVS Pharmacy purchase,CVS Pharmacy,Health,170.43
+2023-05-20,Marriott purchase,Marriott,Travel,37.82
+2024-03-29,AMC Theatres purchase,AMC Theatres,Entertainment,354.32
+2024-01-02,Gift Shop purchase,Gift Shop,Misc,341.31
+2024-03-15,Hulu purchase,Hulu,Entertainment,52.55
+2024-05-09,Target purchase,Target,Shopping,113.97
+2024-05-10,Best Buy purchase,Best Buy,Shopping,211.26
+2023-10-06,eBay purchase,eBay,Shopping,116.77
+2023-08-09,Trader Joe's purchase,Trader Joe's,Groceries,198.46
+2023-03-03,Walgreens purchase,Walgreens,Health,32.63
+2023-08-04,Delta purchase,Delta,Travel,354.45
+2023-10-24,Cash Withdrawal purchase,Cash Withdrawal,Misc,328.26
+2024-01-29,Best Buy purchase,Best Buy,Shopping,62.61
+2023-10-01,Marriott purchase,Marriott,Travel,76.18
+2023-11-27,Delta purchase,Delta,Travel,221.2
+2023-03-21,GNC purchase,GNC,Health,209.59
+2023-06-11,Expedia purchase,Expedia,Travel,365.76
+2023-12-03,Trader Joe's purchase,Trader Joe's,Groceries,55.37
+2023-10-30,GNC purchase,GNC,Health,128.04
+2023-12-29,Cash Withdrawal purchase,Cash Withdrawal,Misc,169.77
+2024-05-31,Gift Shop purchase,Gift Shop,Misc,326.65
+2023-11-25,Target purchase,Target,Shopping,417.2
+2024-03-27,Uber purchase,Uber,Transport,413.62
+2023-01-29,McDonald's purchase,McDonald's,Dining,215.33
+2023-02-25,Water Works purchase,Water Works,Utilities,121.73
+2023-07-26,Shell purchase,Shell,Transport,139.6
+2023-02-15,AMC Theatres purchase,AMC Theatres,Entertainment,431.78
+2024-04-01,Netflix purchase,Netflix,Entertainment,272.21
+2023-12-26,Chipotle purchase,Chipotle,Dining,139.82
+2023-12-08,Trader Joe's purchase,Trader Joe's,Groceries,399.64
+2024-02-17,Gift Shop purchase,Gift Shop,Misc,222.59
+2024-02-01,Walmart purchase,Walmart,Groceries,368.54
+2023-02-12,Udemy purchase,Udemy,Education,208.76
+2024-01-08,eBay purchase,eBay,Shopping,169.56
+2023-02-21,AMC Theatres purchase,AMC Theatres,Entertainment,391.6
+2024-06-09,eBay purchase,eBay,Shopping,80.97
+2023-06-05,Gift Shop purchase,Gift Shop,Misc,301.75
+2023-03-02,AMC Theatres purchase,AMC Theatres,Entertainment,432.95
+2023-12-17,GNC purchase,GNC,Health,148.98
+2023-08-08,Marriott purchase,Marriott,Travel,329.69
+2023-05-20,McDonald's purchase,McDonald's,Dining,340.65
+2024-05-19,Cash Withdrawal purchase,Cash Withdrawal,Misc,126.5
+2024-03-12,Target purchase,Target,Shopping,149.26
+2024-03-01,Domino's purchase,Domino's,Dining,151.51
+2024-02-27,CVS Pharmacy purchase,CVS Pharmacy,Health,481.2
+2024-06-06,eBay purchase,eBay,Shopping,153.21
+2023-04-22,Delta purchase,Delta,Travel,495.93
+2023-03-06,Domino's purchase,Domino's,Dining,405.07
+2023-09-18,Marriott purchase,Marriott,Travel,349.9
+2023-03-23,Chipotle purchase,Chipotle,Dining,266.86
+2024-05-15,Water Works purchase,Water Works,Utilities,299.65
+2024-05-28,Walgreens purchase,Walgreens,Health,196.04
+2023-09-02,AMC Theatres purchase,AMC Theatres,Entertainment,494.0
+2023-02-20,Domino's purchase,Domino's,Dining,175.21
+2023-05-26,ExxonMobil purchase,ExxonMobil,Transport,425.09
+2023-05-09,CVS Pharmacy purchase,CVS Pharmacy,Health,328.17
+2023-11-15,Marriott purchase,Marriott,Travel,32.87
+2023-01-26,Domino's purchase,Domino's,Dining,374.18
+2023-02-23,Skillshare purchase,Skillshare,Education,348.06
+2023-01-09,Whole Foods purchase,Whole Foods,Groceries,442.75
+2023-07-23,Domino's purchase,Domino's,Dining,272.3
+2023-03-23,Amazon purchase,Amazon,Shopping,173.22
+2023-09-23,Starbucks purchase,Starbucks,Dining,18.34
+2024-05-17,edX purchase,edX,Education,26.75
+2024-03-07,ExxonMobil purchase,ExxonMobil,Transport,440.97
+2023-08-11,Delta purchase,Delta,Travel,328.92
+2023-02-27,Lyft purchase,Lyft,Transport,273.53
+2023-02-12,Chipotle purchase,Chipotle,Dining,75.68
+2024-06-12,Amazon purchase,Amazon,Shopping,337.03
+2024-01-21,Skillshare purchase,Skillshare,Education,321.1
+2023-12-13,Gift Shop purchase,Gift Shop,Misc,297.98
+2023-12-24,Skillshare purchase,Skillshare,Education,167.57
+2023-12-12,Chipotle purchase,Chipotle,Dining,274.35
+2024-05-05,Whole Foods purchase,Whole Foods,Groceries,161.63
+2023-09-21,Airbnb purchase,Airbnb,Travel,12.45
+2023-12-12,Walgreens purchase,Walgreens,Health,6.08
+2023-06-02,Expedia purchase,Expedia,Travel,195.49
+2024-01-24,Netflix purchase,Netflix,Entertainment,280.12
+2024-06-17,Electric Co purchase,Electric Co,Utilities,188.25
+2023-02-03,Donation Center purchase,Donation Center,Misc,46.53
+2023-04-20,Expedia purchase,Expedia,Travel,34.21
+2023-12-13,Electric Co purchase,Electric Co,Utilities,57.79
+2024-01-11,Gas Supply purchase,Gas Supply,Utilities,124.9
+2023-04-02,Cash Withdrawal purchase,Cash Withdrawal,Misc,253.73
+2023-11-25,Udemy purchase,Udemy,Education,454.72
+2024-05-03,Donation Center purchase,Donation Center,Misc,305.9
+2023-12-06,Udemy purchase,Udemy,Education,277.89
+2023-06-11,Shell purchase,Shell,Transport,99.26
+2023-11-01,Target purchase,Target,Shopping,18.96
+2023-08-10,Marriott purchase,Marriott,Travel,241.03
+2023-12-25,Expedia purchase,Expedia,Travel,173.39
+2023-01-08,Lyft purchase,Lyft,Transport,488.31
+2024-05-24,Airbnb purchase,Airbnb,Travel,398.93
+2024-04-23,Electric Co purchase,Electric Co,Utilities,343.84
+2023-12-22,eBay purchase,eBay,Shopping,241.86
+2024-03-08,edX purchase,edX,Education,448.42
+2023-07-22,Target purchase,Target,Shopping,247.29
+2023-09-23,edX purchase,edX,Education,270.9
+2024-05-22,Coursera purchase,Coursera,Education,356.43
+2023-02-22,Cash Withdrawal purchase,Cash Withdrawal,Misc,28.86
+2024-04-07,Airbnb purchase,Airbnb,Travel,236.71
+2023-06-14,Internet Provider purchase,Internet Provider,Utilities,228.12
+2024-06-03,Shell purchase,Shell,Transport,463.86
+2024-06-07,Trader Joe's purchase,Trader Joe's,Groceries,421.93
+2023-07-12,Amazon purchase,Amazon,Shopping,243.25
+2024-03-26,eBay purchase,eBay,Shopping,400.71
+2023-09-28,Electric Co purchase,Electric Co,Utilities,483.23
+2023-04-03,Airbnb purchase,Airbnb,Travel,444.55
+2023-03-16,Domino's purchase,Domino's,Dining,19.71
+2023-09-21,Skillshare purchase,Skillshare,Education,443.59
+2024-02-28,Hulu purchase,Hulu,Entertainment,138.22
+2023-10-01,Water Works purchase,Water Works,Utilities,446.77
+2024-03-01,Local Store purchase,Local Store,Misc,271.55
+2023-09-30,eBay purchase,eBay,Shopping,176.07
+2023-07-12,Chipotle purchase,Chipotle,Dining,27.09
+2023-11-25,Starbucks purchase,Starbucks,Dining,443.33
+2023-06-16,Costco purchase,Costco,Groceries,431.98
+2023-06-14,Skillshare purchase,Skillshare,Education,315.49
+2024-06-06,ExxonMobil purchase,ExxonMobil,Transport,488.13
+2023-08-18,eBay purchase,eBay,Shopping,153.22
+2023-10-19,Gas Supply purchase,Gas Supply,Utilities,73.49
+2023-09-29,Delta purchase,Delta,Travel,499.89
+2023-12-26,Gas Supply purchase,Gas Supply,Utilities,314.47
+2023-05-27,eBay purchase,eBay,Shopping,303.03
+2024-06-29,Spotify purchase,Spotify,Entertainment,425.04
+2023-12-15,Best Buy purchase,Best Buy,Shopping,378.27
+2023-02-07,Hulu purchase,Hulu,Entertainment,367.88
+2024-04-05,Donation Center purchase,Donation Center,Misc,188.7
+2024-05-08,Local Store purchase,Local Store,Misc,311.04
+2023-08-16,Airbnb purchase,Airbnb,Travel,300.3
+2023-07-17,Starbucks purchase,Starbucks,Dining,412.88
+2023-06-10,Uber purchase,Uber,Transport,314.32
+2023-05-24,Delta purchase,Delta,Travel,295.58
+2023-11-24,Amazon purchase,Amazon,Shopping,271.71
+2023-11-08,Gift Shop purchase,Gift Shop,Misc,28.17
+2023-10-01,Gift Shop purchase,Gift Shop,Misc,38.73
+2023-12-22,Target purchase,Target,Shopping,300.85
+2024-07-04,Water Works purchase,Water Works,Utilities,398.14
+2023-04-16,Trader Joe's purchase,Trader Joe's,Groceries,234.69
+2023-02-13,Marriott purchase,Marriott,Travel,82.81
+2024-01-13,AMC Theatres purchase,AMC Theatres,Entertainment,438.79
+2023-12-27,Walmart purchase,Walmart,Groceries,49.06
+2024-04-05,Starbucks purchase,Starbucks,Dining,223.68
+2023-10-27,Amazon purchase,Amazon,Shopping,241.22
+2023-09-16,GNC purchase,GNC,Health,178.6
+2023-11-16,Marriott purchase,Marriott,Travel,357.18
+2023-11-15,eBay purchase,eBay,Shopping,94.77
+2023-11-27,Gas Supply purchase,Gas Supply,Utilities,176.59
+2024-01-08,Hulu purchase,Hulu,Entertainment,64.06
+2024-05-22,Internet Provider purchase,Internet Provider,Utilities,207.25
+2024-03-12,Target purchase,Target,Shopping,376.21
+2024-01-14,Amazon purchase,Amazon,Shopping,267.24
+2023-01-01,Electric Co purchase,Electric Co,Utilities,370.94
+2024-02-23,Water Works purchase,Water Works,Utilities,308.37
+2023-09-15,Shell purchase,Shell,Transport,192.48
+2024-05-23,Walmart purchase,Walmart,Groceries,283.88
+2023-08-26,Walgreens purchase,Walgreens,Health,170.56
+2024-06-23,edX purchase,edX,Education,455.09
+2023-12-15,Skillshare purchase,Skillshare,Education,422.24
+2024-06-29,Delta purchase,Delta,Travel,8.78
+2023-11-15,Target purchase,Target,Shopping,33.35
+2023-02-11,Water Works purchase,Water Works,Utilities,412.5
+2024-05-19,GNC purchase,GNC,Health,116.18
+2024-04-15,Target purchase,Target,Shopping,231.37
+2024-02-04,Coursera purchase,Coursera,Education,454.18
+2023-02-13,AMC Theatres purchase,AMC Theatres,Entertainment,70.14
+2023-12-02,Walgreens purchase,Walgreens,Health,443.44
+2023-02-23,eBay purchase,eBay,Shopping,199.01
+2024-01-26,Whole Foods purchase,Whole Foods,Groceries,228.96
+2024-04-13,GNC purchase,GNC,Health,201.63
+2023-06-11,Domino's purchase,Domino's,Dining,74.91
+2023-08-25,Netflix purchase,Netflix,Entertainment,445.77
+2023-08-05,Netflix purchase,Netflix,Entertainment,164.63
+2024-06-14,Coursera purchase,Coursera,Education,435.49
+2024-05-06,Local Store purchase,Local Store,Misc,356.98
+2024-01-25,Domino's purchase,Domino's,Dining,465.26
+2023-02-22,Gift Shop purchase,Gift Shop,Misc,358.16
+2024-06-14,Water Works purchase,Water Works,Utilities,67.0
+2024-03-05,GNC purchase,GNC,Health,381.47
+2024-01-22,Expedia purchase,Expedia,Travel,94.93
+2024-01-23,Internet Provider purchase,Internet Provider,Utilities,419.01
+2023-07-24,edX purchase,edX,Education,278.46
+2023-05-28,Water Works purchase,Water Works,Utilities,457.14
+2023-10-25,Internet Provider purchase,Internet Provider,Utilities,53.33
+2023-12-21,Electric Co purchase,Electric Co,Utilities,378.16
+2024-05-10,Gas Supply purchase,Gas Supply,Utilities,265.0
+2024-04-29,Shell purchase,Shell,Transport,275.46
+2023-06-30,Hulu purchase,Hulu,Entertainment,292.82
+2023-08-29,Electric Co purchase,Electric Co,Utilities,468.91
+2024-06-12,Health Clinic purchase,Health Clinic,Health,326.06
+2023-11-28,Gift Shop purchase,Gift Shop,Misc,40.64
+2023-10-02,Skillshare purchase,Skillshare,Education,103.5
+2023-01-24,McDonald's purchase,McDonald's,Dining,278.19
+2023-06-21,Best Buy purchase,Best Buy,Shopping,476.94
+2024-06-23,Electric Co purchase,Electric Co,Utilities,378.28
+2023-07-31,Walgreens purchase,Walgreens,Health,498.18
+2023-02-25,Local Store purchase,Local Store,Misc,285.19
+2024-03-28,eBay purchase,eBay,Shopping,292.34
+2024-01-05,Netflix purchase,Netflix,Entertainment,308.94
+2024-01-09,Udemy purchase,Udemy,Education,279.58
+2023-07-21,Walgreens purchase,Walgreens,Health,385.03
+2023-02-04,CVS Pharmacy purchase,CVS Pharmacy,Health,278.83
+2024-04-08,Coursera purchase,Coursera,Education,430.4
+2023-04-26,Water Works purchase,Water Works,Utilities,447.61
+2024-03-11,Delta purchase,Delta,Travel,302.84
+2023-09-21,Shell purchase,Shell,Transport,58.29
+2023-08-10,Gas Supply purchase,Gas Supply,Utilities,151.09
+2023-07-14,Expedia purchase,Expedia,Travel,95.89
+2023-04-02,Whole Foods purchase,Whole Foods,Groceries,323.24
+2024-04-18,Uber purchase,Uber,Transport,381.04
+2023-02-05,Donation Center purchase,Donation Center,Misc,497.92
+2023-12-02,Water Works purchase,Water Works,Utilities,467.87
+2024-02-04,Donation Center purchase,Donation Center,Misc,56.84
+2024-04-08,Health Clinic purchase,Health Clinic,Health,370.07
+2023-04-23,Coursera purchase,Coursera,Education,67.54
+2023-03-04,Lyft purchase,Lyft,Transport,263.0
+2023-03-18,Local Store purchase,Local Store,Misc,300.41
+2023-08-11,Walmart purchase,Walmart,Groceries,174.96
+2023-06-27,Domino's purchase,Domino's,Dining,378.03
+2023-02-20,Chipotle purchase,Chipotle,Dining,458.48
+2023-07-08,GNC purchase,GNC,Health,190.85
+2024-01-15,Target purchase,Target,Shopping,199.16
+2023-06-27,Internet Provider purchase,Internet Provider,Utilities,285.17
+2023-11-12,Cash Withdrawal purchase,Cash Withdrawal,Misc,98.36
+2023-02-15,Trader Joe's purchase,Trader Joe's,Groceries,105.56
+2024-01-14,Health Clinic purchase,Health Clinic,Health,413.85
+2023-03-23,Electric Co purchase,Electric Co,Utilities,416.18
+2023-11-03,edX purchase,edX,Education,483.83
+2024-02-21,Delta purchase,Delta,Travel,332.81
+2023-04-27,Udemy purchase,Udemy,Education,80.36
+2024-03-14,Amazon purchase,Amazon,Shopping,309.54
+2023-01-01,Donation Center purchase,Donation Center,Misc,428.66
+2023-12-08,Expedia purchase,Expedia,Travel,265.27
+2023-07-24,Gift Shop purchase,Gift Shop,Misc,179.77
+2023-09-07,Domino's purchase,Domino's,Dining,253.83
+2023-02-11,Water Works purchase,Water Works,Utilities,292.47
+2024-03-21,Marriott purchase,Marriott,Travel,478.91
+2024-03-31,Gas Supply purchase,Gas Supply,Utilities,373.97
+2024-06-17,Expedia purchase,Expedia,Travel,217.4
+2023-07-10,Amazon purchase,Amazon,Shopping,100.25
+2024-01-17,Walmart purchase,Walmart,Groceries,130.6
+2024-03-30,Skillshare purchase,Skillshare,Education,467.82
+2024-02-21,Local Store purchase,Local Store,Misc,123.79
+2023-07-09,Delta purchase,Delta,Travel,147.78
+2023-07-21,Internet Provider purchase,Internet Provider,Utilities,353.62
+2023-10-15,Marriott purchase,Marriott,Travel,380.43
+2024-04-14,Lyft purchase,Lyft,Transport,252.71
+2023-03-02,Uber purchase,Uber,Transport,136.8
+2024-04-03,GNC purchase,GNC,Health,441.84
+2023-05-22,edX purchase,edX,Education,417.92
+2023-11-13,Delta purchase,Delta,Travel,466.75
+2023-03-08,Domino's purchase,Domino's,Dining,248.05
+2024-05-21,Water Works purchase,Water Works,Utilities,458.31
+2023-06-30,Spotify purchase,Spotify,Entertainment,448.19
+2023-09-14,Marriott purchase,Marriott,Travel,445.46
+2024-06-26,Amazon purchase,Amazon,Shopping,395.79
+2023-10-03,Walgreens purchase,Walgreens,Health,111.59
+2024-01-12,Uber purchase,Uber,Transport,453.46
+2024-04-12,Shell purchase,Shell,Transport,478.77
+2023-03-20,Lyft purchase,Lyft,Transport,21.37
+2023-12-21,Cash Withdrawal purchase,Cash Withdrawal,Misc,482.33
+2023-07-21,Domino's purchase,Domino's,Dining,238.65
+2023-11-20,Cash Withdrawal purchase,Cash Withdrawal,Misc,384.4
+2023-02-01,Water Works purchase,Water Works,Utilities,74.35
+2023-03-09,Internet Provider purchase,Internet Provider,Utilities,103.98
+2023-03-19,Cash Withdrawal purchase,Cash Withdrawal,Misc,157.72
+2023-09-05,Airbnb purchase,Airbnb,Travel,474.28
+2024-03-07,Walgreens purchase,Walgreens,Health,307.12
+2023-08-29,edX purchase,edX,Education,126.43
+2024-05-22,Lyft purchase,Lyft,Transport,291.74
+2024-06-10,Netflix purchase,Netflix,Entertainment,374.7
+2024-02-27,CVS Pharmacy purchase,CVS Pharmacy,Health,315.28
+2023-04-19,McDonald's purchase,McDonald's,Dining,307.8
+2023-06-10,Cash Withdrawal purchase,Cash Withdrawal,Misc,290.37
+2024-01-28,Trader Joe's purchase,Trader Joe's,Groceries,122.32
+2023-08-07,Trader Joe's purchase,Trader Joe's,Groceries,6.96
+2023-12-21,Starbucks purchase,Starbucks,Dining,271.77
+2024-01-20,Marriott purchase,Marriott,Travel,150.89
+2024-01-05,CVS Pharmacy purchase,CVS Pharmacy,Health,86.38
+2023-04-12,Internet Provider purchase,Internet Provider,Utilities,136.82
+2023-05-12,eBay purchase,eBay,Shopping,164.58
+2023-01-01,Shell purchase,Shell,Transport,418.89
+2023-09-15,Whole Foods purchase,Whole Foods,Groceries,138.12
+2023-01-07,Delta purchase,Delta,Travel,95.65
+2024-01-24,Donation Center purchase,Donation Center,Misc,286.42
+2023-09-09,Marriott purchase,Marriott,Travel,23.84
+2023-01-10,Airbnb purchase,Airbnb,Travel,116.39
+2023-11-24,Marriott purchase,Marriott,Travel,478.41
+2024-03-24,Local Store purchase,Local Store,Misc,319.52
+2024-01-27,Marriott purchase,Marriott,Travel,148.76
+2023-04-17,CVS Pharmacy purchase,CVS Pharmacy,Health,433.42
+2023-11-05,ExxonMobil purchase,ExxonMobil,Transport,215.45
+2023-11-27,Netflix purchase,Netflix,Entertainment,57.38
+2024-06-20,Target purchase,Target,Shopping,499.3
+2023-12-01,eBay purchase,eBay,Shopping,455.51
+2024-01-11,Gift Shop purchase,Gift Shop,Misc,450.36
+2023-09-02,Udemy purchase,Udemy,Education,320.41
+2024-03-03,Gas Supply purchase,Gas Supply,Utilities,350.49
+2023-09-17,Walgreens purchase,Walgreens,Health,439.82
+2024-03-15,Walgreens purchase,Walgreens,Health,45.23
+2023-04-01,eBay purchase,eBay,Shopping,142.82
+2023-10-24,CVS Pharmacy purchase,CVS Pharmacy,Health,312.29
+2023-03-27,edX purchase,edX,Education,251.53
+2023-10-19,Spotify purchase,Spotify,Entertainment,115.35
+2024-05-03,Walmart purchase,Walmart,Groceries,278.63
+2023-11-10,Cash Withdrawal purchase,Cash Withdrawal,Misc,168.29
+2023-04-28,Uber purchase,Uber,Transport,448.72
+2024-04-12,GNC purchase,GNC,Health,193.76
+2023-07-27,Lyft purchase,Lyft,Transport,108.54
+2023-09-04,Uber purchase,Uber,Transport,461.15
+2023-11-23,Hulu purchase,Hulu,Entertainment,419.88
+2024-03-10,Whole Foods purchase,Whole Foods,Groceries,115.0
+2023-04-17,Costco purchase,Costco,Groceries,270.81
+2024-05-19,Lyft purchase,Lyft,Transport,292.75
+2023-04-07,GNC purchase,GNC,Health,474.87
+2023-08-25,edX purchase,edX,Education,241.69
+2023-08-09,Gas Supply purchase,Gas Supply,Utilities,402.68
+2024-01-22,Chipotle purchase,Chipotle,Dining,317.53
+2023-09-23,Best Buy purchase,Best Buy,Shopping,240.21
+2024-04-22,Delta purchase,Delta,Travel,384.63
+2023-12-22,Best Buy purchase,Best Buy,Shopping,378.51
+2023-04-07,Cash Withdrawal purchase,Cash Withdrawal,Misc,133.79
+2024-06-21,Walmart purchase,Walmart,Groceries,346.6
+2023-03-20,Local Store purchase,Local Store,Misc,13.28
+2024-01-09,Electric Co purchase,Electric Co,Utilities,177.38
+2023-06-19,Health Clinic purchase,Health Clinic,Health,428.36
+2023-08-29,CVS Pharmacy purchase,CVS Pharmacy,Health,477.56
+2023-12-17,Donation Center purchase,Donation Center,Misc,78.0
+2024-06-18,ExxonMobil purchase,ExxonMobil,Transport,465.47
+2023-07-25,McDonald's purchase,McDonald's,Dining,474.76
+2023-11-09,Electric Co purchase,Electric Co,Utilities,394.28
+2023-12-30,Internet Provider purchase,Internet Provider,Utilities,248.95
+2023-09-09,edX purchase,edX,Education,143.71
+2023-12-16,Local Store purchase,Local Store,Misc,118.12
+2024-02-03,Chipotle purchase,Chipotle,Dining,481.87
+2023-05-24,Domino's purchase,Domino's,Dining,187.47
+2023-09-10,McDonald's purchase,McDonald's,Dining,14.43
+2024-04-12,Health Clinic purchase,Health Clinic,Health,68.31
+2023-04-03,Best Buy purchase,Best Buy,Shopping,436.02
+2023-07-23,Delta purchase,Delta,Travel,206.85
+2023-06-28,Spotify purchase,Spotify,Entertainment,437.92
+2023-05-04,Starbucks purchase,Starbucks,Dining,379.76
+2023-07-30,Target purchase,Target,Shopping,24.09
+2024-04-29,McDonald's purchase,McDonald's,Dining,380.2
+2023-06-25,Udemy purchase,Udemy,Education,276.51
+2023-01-21,Target purchase,Target,Shopping,390.23
+2023-11-21,Gift Shop purchase,Gift Shop,Misc,383.78
+2023-05-01,Hulu purchase,Hulu,Entertainment,336.72
+2024-02-28,GNC purchase,GNC,Health,467.16
+2023-11-09,eBay purchase,eBay,Shopping,22.88
+2024-03-21,eBay purchase,eBay,Shopping,338.67
+2024-05-04,Local Store purchase,Local Store,Misc,27.98
+2023-08-09,Lyft purchase,Lyft,Transport,370.45
+2023-07-16,Whole Foods purchase,Whole Foods,Groceries,398.5
+2024-01-07,Udemy purchase,Udemy,Education,68.51
+2023-10-16,Water Works purchase,Water Works,Utilities,307.11
+2023-07-26,Electric Co purchase,Electric Co,Utilities,151.88
+2023-05-02,Marriott purchase,Marriott,Travel,67.83
+2024-06-11,Internet Provider purchase,Internet Provider,Utilities,111.85
+2023-10-14,Chipotle purchase,Chipotle,Dining,421.75
+2024-04-19,Target purchase,Target,Shopping,343.66
+2023-01-15,Whole Foods purchase,Whole Foods,Groceries,254.07
+2024-04-12,Skillshare purchase,Skillshare,Education,51.88
+2023-10-23,Udemy purchase,Udemy,Education,222.48
+2023-12-27,Expedia purchase,Expedia,Travel,170.57
+2023-06-17,Domino's purchase,Domino's,Dining,406.8
+2023-12-29,Electric Co purchase,Electric Co,Utilities,292.84
+2023-12-19,Airbnb purchase,Airbnb,Travel,206.95
+2023-03-13,Expedia purchase,Expedia,Travel,355.52
+2024-04-24,Domino's purchase,Domino's,Dining,111.72
+2024-06-20,Coursera purchase,Coursera,Education,186.41
+2023-02-14,Amazon purchase,Amazon,Shopping,12.21
+2023-01-07,Coursera purchase,Coursera,Education,423.12
+2024-07-04,ExxonMobil purchase,ExxonMobil,Transport,119.15
+2023-06-27,Local Store purchase,Local Store,Misc,95.05
+2023-12-25,Udemy purchase,Udemy,Education,369.17
+2024-03-26,Netflix purchase,Netflix,Entertainment,128.77
+2023-02-08,AMC Theatres purchase,AMC Theatres,Entertainment,164.04
+2024-05-24,Spotify purchase,Spotify,Entertainment,293.35
+2023-06-11,Target purchase,Target,Shopping,313.61
+2023-07-06,Water Works purchase,Water Works,Utilities,128.63
+2023-04-10,CVS Pharmacy purchase,CVS Pharmacy,Health,278.39
+2023-11-07,Airbnb purchase,Airbnb,Travel,174.34
+2023-04-23,McDonald's purchase,McDonald's,Dining,494.8
+2023-04-16,Lyft purchase,Lyft,Transport,37.57
+2023-10-06,Internet Provider purchase,Internet Provider,Utilities,235.44
+2024-03-26,Costco purchase,Costco,Groceries,32.65
+2023-10-15,Health Clinic purchase,Health Clinic,Health,97.45
+2023-09-09,Gas Supply purchase,Gas Supply,Utilities,201.77
+2023-07-11,Skillshare purchase,Skillshare,Education,123.86
+2024-03-11,Trader Joe's purchase,Trader Joe's,Groceries,199.35
+2023-11-15,Gift Shop purchase,Gift Shop,Misc,182.5
+2024-03-28,ExxonMobil purchase,ExxonMobil,Transport,273.63
+2023-04-15,Cash Withdrawal purchase,Cash Withdrawal,Misc,175.59
+2023-08-13,Donation Center purchase,Donation Center,Misc,50.01
+2024-05-31,Internet Provider purchase,Internet Provider,Utilities,215.0
+2023-07-05,Donation Center purchase,Donation Center,Misc,318.1
+2023-12-28,Best Buy purchase,Best Buy,Shopping,411.63
+2024-03-08,Chipotle purchase,Chipotle,Dining,56.07
+2024-06-29,GNC purchase,GNC,Health,447.03
+2024-01-09,Costco purchase,Costco,Groceries,122.42
+2024-02-19,ExxonMobil purchase,ExxonMobil,Transport,398.1
+2023-10-10,Spotify purchase,Spotify,Entertainment,311.48
+2023-10-13,Amazon purchase,Amazon,Shopping,31.9
+2023-05-04,Donation Center purchase,Donation Center,Misc,342.96
+2023-05-06,Costco purchase,Costco,Groceries,456.57
+2023-12-18,AMC Theatres purchase,AMC Theatres,Entertainment,261.37
+2024-03-06,Shell purchase,Shell,Transport,471.39
+2023-03-21,Trader Joe's purchase,Trader Joe's,Groceries,188.08
+2024-01-12,Udemy purchase,Udemy,Education,370.29
+2024-06-24,Marriott purchase,Marriott,Travel,163.18
+2023-06-07,GNC purchase,GNC,Health,245.16
+2023-06-08,Lyft purchase,Lyft,Transport,474.06
+2024-06-15,Best Buy purchase,Best Buy,Shopping,279.3
+2023-07-01,Delta purchase,Delta,Travel,282.93
+2024-01-22,ExxonMobil purchase,ExxonMobil,Transport,88.76
+2023-07-04,ExxonMobil purchase,ExxonMobil,Transport,285.14
+2024-04-04,Costco purchase,Costco,Groceries,380.97
+2023-12-05,Domino's purchase,Domino's,Dining,56.99
+2023-12-09,AMC Theatres purchase,AMC Theatres,Entertainment,31.18
+2023-06-22,ExxonMobil purchase,ExxonMobil,Transport,377.87
+2023-07-17,Expedia purchase,Expedia,Travel,194.33
+2023-05-25,ExxonMobil purchase,ExxonMobil,Transport,124.81
+2023-03-30,Domino's purchase,Domino's,Dining,20.44
+2024-01-21,AMC Theatres purchase,AMC Theatres,Entertainment,487.61
+2024-01-07,Walmart purchase,Walmart,Groceries,187.27
+2024-02-09,Cash Withdrawal purchase,Cash Withdrawal,Misc,436.43
+2023-06-18,GNC purchase,GNC,Health,291.54
+2024-05-03,edX purchase,edX,Education,415.83
+2024-06-12,Costco purchase,Costco,Groceries,352.0
+2023-12-08,Costco purchase,Costco,Groceries,497.45
+2023-10-13,Starbucks purchase,Starbucks,Dining,385.87
+2023-07-24,CVS Pharmacy purchase,CVS Pharmacy,Health,336.9
+2023-08-28,Donation Center purchase,Donation Center,Misc,425.52
+2023-08-30,Shell purchase,Shell,Transport,283.48
+2023-10-24,Netflix purchase,Netflix,Entertainment,5.09
+2023-03-22,Amazon purchase,Amazon,Shopping,17.49
+2023-07-08,Udemy purchase,Udemy,Education,166.14
+2023-01-01,Skillshare purchase,Skillshare,Education,56.12
+2024-03-08,Amazon purchase,Amazon,Shopping,29.01
+2023-03-26,Electric Co purchase,Electric Co,Utilities,213.31
+2023-08-13,Donation Center purchase,Donation Center,Misc,216.04
+2023-07-15,Whole Foods purchase,Whole Foods,Groceries,346.36
+2023-10-22,Udemy purchase,Udemy,Education,89.35
+2023-03-21,Donation Center purchase,Donation Center,Misc,153.1
+2024-01-17,Costco purchase,Costco,Groceries,216.24
+2023-09-15,eBay purchase,eBay,Shopping,281.59
+2024-02-07,Cash Withdrawal purchase,Cash Withdrawal,Misc,263.68
+2023-02-14,Gas Supply purchase,Gas Supply,Utilities,315.6
+2023-06-11,AMC Theatres purchase,AMC Theatres,Entertainment,41.82
+2024-01-04,Whole Foods purchase,Whole Foods,Groceries,123.12
+2023-01-30,Hulu purchase,Hulu,Entertainment,392.16
+2023-11-17,AMC Theatres purchase,AMC Theatres,Entertainment,90.94
+2023-12-31,Airbnb purchase,Airbnb,Travel,354.9
+2024-06-21,Cash Withdrawal purchase,Cash Withdrawal,Misc,404.74
+2024-04-05,Netflix purchase,Netflix,Entertainment,329.56
+2024-05-10,Uber purchase,Uber,Transport,207.09
+2023-10-16,Chipotle purchase,Chipotle,Dining,293.16
+2023-01-01,Lyft purchase,Lyft,Transport,31.16
+2023-07-09,eBay purchase,eBay,Shopping,177.6
+2023-08-11,Chipotle purchase,Chipotle,Dining,173.3
+2023-07-08,Whole Foods purchase,Whole Foods,Groceries,212.78
+2023-02-16,Donation Center purchase,Donation Center,Misc,111.99
+2023-02-23,Trader Joe's purchase,Trader Joe's,Groceries,312.27
+2024-02-11,Best Buy purchase,Best Buy,Shopping,179.42
+2023-04-08,Electric Co purchase,Electric Co,Utilities,11.06
+2024-06-26,CVS Pharmacy purchase,CVS Pharmacy,Health,184.92
+2023-04-04,CVS Pharmacy purchase,CVS Pharmacy,Health,274.47
+2024-02-29,Airbnb purchase,Airbnb,Travel,369.16
+2024-05-09,Marriott purchase,Marriott,Travel,95.43
+2023-07-07,Uber purchase,Uber,Transport,85.63
+2024-03-26,Whole Foods purchase,Whole Foods,Groceries,153.5
+2024-02-08,Walgreens purchase,Walgreens,Health,123.95
+2023-08-21,McDonald's purchase,McDonald's,Dining,137.85
+2023-02-21,Costco purchase,Costco,Groceries,422.97
+2024-04-15,Walmart purchase,Walmart,Groceries,272.13
+2023-03-02,Electric Co purchase,Electric Co,Utilities,216.62
+2023-05-01,Internet Provider purchase,Internet Provider,Utilities,17.33
+2023-04-17,AMC Theatres purchase,AMC Theatres,Entertainment,422.56
+2024-06-09,Trader Joe's purchase,Trader Joe's,Groceries,276.74
+2023-02-17,Uber purchase,Uber,Transport,374.95
+2023-09-29,ExxonMobil purchase,ExxonMobil,Transport,268.72
+2023-03-19,Marriott purchase,Marriott,Travel,50.08
+2023-01-28,Local Store purchase,Local Store,Misc,343.71
+2024-05-05,Trader Joe's purchase,Trader Joe's,Groceries,92.81
+2023-11-26,Marriott purchase,Marriott,Travel,348.93
+2024-03-14,Health Clinic purchase,Health Clinic,Health,185.74
+2024-01-04,ExxonMobil purchase,ExxonMobil,Transport,426.14
+2023-02-16,Domino's purchase,Domino's,Dining,124.22
+2024-03-21,Spotify purchase,Spotify,Entertainment,195.55
+2023-04-17,Local Store purchase,Local Store,Misc,286.27
+2024-03-04,Best Buy purchase,Best Buy,Shopping,335.88
+2023-07-05,Lyft purchase,Lyft,Transport,298.95
+2024-04-15,CVS Pharmacy purchase,CVS Pharmacy,Health,373.27
+2024-07-01,Chipotle purchase,Chipotle,Dining,418.82
+2023-02-17,Udemy purchase,Udemy,Education,75.02
+2024-05-26,Whole Foods purchase,Whole Foods,Groceries,307.07
+2024-01-19,eBay purchase,eBay,Shopping,176.51
+2023-04-19,Coursera purchase,Coursera,Education,363.16
+2023-01-12,Skillshare purchase,Skillshare,Education,350.1
+2024-06-16,Coursera purchase,Coursera,Education,15.61
+2023-05-07,eBay purchase,eBay,Shopping,472.17
+2023-09-27,edX purchase,edX,Education,348.32
+2023-03-22,Domino's purchase,Domino's,Dining,150.47
+2023-02-08,Airbnb purchase,Airbnb,Travel,480.91
+2023-01-30,Starbucks purchase,Starbucks,Dining,380.68
+2023-09-09,Electric Co purchase,Electric Co,Utilities,56.49
+2023-12-28,Starbucks purchase,Starbucks,Dining,119.21
+2023-07-08,CVS Pharmacy purchase,CVS Pharmacy,Health,58.94
+2023-09-19,Expedia purchase,Expedia,Travel,295.78
+2023-02-03,Cash Withdrawal purchase,Cash Withdrawal,Misc,173.78
+2023-06-15,Starbucks purchase,Starbucks,Dining,134.17
+2024-03-01,Target purchase,Target,Shopping,438.05
+2023-07-07,Target purchase,Target,Shopping,241.41
+2023-10-25,Target purchase,Target,Shopping,459.85
+2023-09-12,AMC Theatres purchase,AMC Theatres,Entertainment,141.88
+2023-08-19,Expedia purchase,Expedia,Travel,240.14
+2023-08-11,AMC Theatres purchase,AMC Theatres,Entertainment,158.57
+2024-06-15,Walmart purchase,Walmart,Groceries,428.03
+2023-01-02,Internet Provider purchase,Internet Provider,Utilities,322.24
+2023-02-11,AMC Theatres purchase,AMC Theatres,Entertainment,103.73
+2023-10-10,Coursera purchase,Coursera,Education,139.08
+2023-06-29,Lyft purchase,Lyft,Transport,21.14
+2023-06-27,ExxonMobil purchase,ExxonMobil,Transport,453.41
+2023-01-03,Udemy purchase,Udemy,Education,413.18
+2023-10-06,AMC Theatres purchase,AMC Theatres,Entertainment,222.7
+2023-06-07,ExxonMobil purchase,ExxonMobil,Transport,20.98
+2023-11-15,Internet Provider purchase,Internet Provider,Utilities,224.28
+2023-11-24,Gas Supply purchase,Gas Supply,Utilities,116.98
+2023-09-09,Gas Supply purchase,Gas Supply,Utilities,485.28
+2024-06-15,Water Works purchase,Water Works,Utilities,332.57
+2023-02-22,Marriott purchase,Marriott,Travel,75.44
+2023-12-19,Internet Provider purchase,Internet Provider,Utilities,133.21
+2023-10-12,Gas Supply purchase,Gas Supply,Utilities,343.94
+2023-01-08,Local Store purchase,Local Store,Misc,145.65
+2023-04-21,Marriott purchase,Marriott,Travel,158.27
+2023-02-22,Spotify purchase,Spotify,Entertainment,478.24
+2023-07-20,Target purchase,Target,Shopping,108.61
+2023-07-09,Expedia purchase,Expedia,Travel,137.85
+2023-05-10,Skillshare purchase,Skillshare,Education,270.23
+2023-04-24,Netflix purchase,Netflix,Entertainment,165.29
+2023-03-09,Walmart purchase,Walmart,Groceries,77.23
+2023-09-27,Netflix purchase,Netflix,Entertainment,179.6
+2023-12-25,Amazon purchase,Amazon,Shopping,191.35
+2023-05-14,Health Clinic purchase,Health Clinic,Health,53.5
+2023-10-28,McDonald's purchase,McDonald's,Dining,247.24
+2023-09-20,Spotify purchase,Spotify,Entertainment,185.14
+2024-05-11,Expedia purchase,Expedia,Travel,239.25
+2024-03-12,Marriott purchase,Marriott,Travel,489.08
+2023-11-01,Gas Supply purchase,Gas Supply,Utilities,261.7
+2023-08-12,Spotify purchase,Spotify,Entertainment,457.51
+2024-05-11,Whole Foods purchase,Whole Foods,Groceries,230.24
+2023-04-25,Airbnb purchase,Airbnb,Travel,298.58
+2023-10-31,Lyft purchase,Lyft,Transport,175.34
+2024-02-06,ExxonMobil purchase,ExxonMobil,Transport,344.47
+2023-11-25,Lyft purchase,Lyft,Transport,64.02
+2023-07-09,Spotify purchase,Spotify,Entertainment,231.35
+2024-05-18,Donation Center purchase,Donation Center,Misc,418.22
+2023-05-22,Shell purchase,Shell,Transport,180.87
+2024-01-19,Walmart purchase,Walmart,Groceries,160.14
+2024-05-01,Starbucks purchase,Starbucks,Dining,424.41
+2023-10-31,Target purchase,Target,Shopping,368.77
+2023-10-15,AMC Theatres purchase,AMC Theatres,Entertainment,427.96
+2024-01-22,Lyft purchase,Lyft,Transport,301.9
+2023-01-18,Delta purchase,Delta,Travel,189.5
+2024-02-18,Gas Supply purchase,Gas Supply,Utilities,144.71
+2024-04-27,Hulu purchase,Hulu,Entertainment,374.61
+2024-03-08,Electric Co purchase,Electric Co,Utilities,430.43
+2023-05-22,Target purchase,Target,Shopping,271.82
+2023-09-26,Best Buy purchase,Best Buy,Shopping,70.35
+2024-05-21,Airbnb purchase,Airbnb,Travel,323.64
+2023-08-12,Water Works purchase,Water Works,Utilities,293.53
+2023-10-08,Cash Withdrawal purchase,Cash Withdrawal,Misc,236.61
+2023-01-06,Starbucks purchase,Starbucks,Dining,490.96
+2023-04-20,Water Works purchase,Water Works,Utilities,397.76
+2023-05-13,Electric Co purchase,Electric Co,Utilities,451.97
+2024-06-08,Walgreens purchase,Walgreens,Health,262.94
+2023-12-08,CVS Pharmacy purchase,CVS Pharmacy,Health,201.81
+2023-05-04,Udemy purchase,Udemy,Education,475.2
+2024-06-29,Chipotle purchase,Chipotle,Dining,266.08
+2023-11-18,GNC purchase,GNC,Health,138.16
+2024-01-21,Health Clinic purchase,Health Clinic,Health,336.65
+2023-11-30,Local Store purchase,Local Store,Misc,108.32
+2023-03-17,Gas Supply purchase,Gas Supply,Utilities,376.64
+2023-11-02,Marriott purchase,Marriott,Travel,395.05
+2023-04-19,Local Store purchase,Local Store,Misc,321.54
+2023-05-16,Best Buy purchase,Best Buy,Shopping,220.08
+2023-04-14,Skillshare purchase,Skillshare,Education,173.81
+2023-04-30,Spotify purchase,Spotify,Entertainment,334.57
+2023-08-29,Amazon purchase,Amazon,Shopping,72.1
+2023-02-04,Uber purchase,Uber,Transport,494.03
+2023-11-29,edX purchase,edX,Education,465.64
+2023-03-17,Whole Foods purchase,Whole Foods,Groceries,460.35
+2023-10-21,Walgreens purchase,Walgreens,Health,277.24
+2023-07-28,Marriott purchase,Marriott,Travel,207.41
+2023-02-12,Hulu purchase,Hulu,Entertainment,460.16
+2024-05-22,Target purchase,Target,Shopping,474.91
+2023-04-01,Local Store purchase,Local Store,Misc,430.19
+2024-06-18,Cash Withdrawal purchase,Cash Withdrawal,Misc,475.17
+2023-08-24,Electric Co purchase,Electric Co,Utilities,113.16
+2023-02-18,Spotify purchase,Spotify,Entertainment,131.25
+2024-03-09,Gas Supply purchase,Gas Supply,Utilities,197.16
+2023-06-27,Spotify purchase,Spotify,Entertainment,226.07
+2023-12-01,Airbnb purchase,Airbnb,Travel,321.74
+2024-02-16,Trader Joe's purchase,Trader Joe's,Groceries,190.6
+2024-02-09,Trader Joe's purchase,Trader Joe's,Groceries,36.76
+2023-10-09,Health Clinic purchase,Health Clinic,Health,335.1
+2024-01-06,Hulu purchase,Hulu,Entertainment,425.7
+2023-04-12,Whole Foods purchase,Whole Foods,Groceries,115.24
+2023-06-07,Coursera purchase,Coursera,Education,307.27
+2024-06-15,Coursera purchase,Coursera,Education,69.09
+2023-05-07,Starbucks purchase,Starbucks,Dining,458.45
+2023-08-21,Gift Shop purchase,Gift Shop,Misc,494.27
+2023-09-09,eBay purchase,eBay,Shopping,266.61
+2023-12-09,edX purchase,edX,Education,247.17
+2023-12-27,Shell purchase,Shell,Transport,76.48
+2024-06-26,Internet Provider purchase,Internet Provider,Utilities,26.47
+2023-08-23,Airbnb purchase,Airbnb,Travel,164.3
+2023-12-17,Expedia purchase,Expedia,Travel,466.34
+2023-05-15,Walmart purchase,Walmart,Groceries,102.33
+2024-05-07,Gift Shop purchase,Gift Shop,Misc,274.0
+2023-02-02,Best Buy purchase,Best Buy,Shopping,149.07
+2024-02-05,Trader Joe's purchase,Trader Joe's,Groceries,295.05
+2023-09-13,Cash Withdrawal purchase,Cash Withdrawal,Misc,219.22
+2024-01-30,Amazon purchase,Amazon,Shopping,97.93
+2023-04-09,Internet Provider purchase,Internet Provider,Utilities,179.02
+2024-06-09,McDonald's purchase,McDonald's,Dining,107.02
+2024-05-09,Target purchase,Target,Shopping,287.8
+2023-07-12,Expedia purchase,Expedia,Travel,351.27
+2024-03-25,Cash Withdrawal purchase,Cash Withdrawal,Misc,227.22
+2023-06-14,Best Buy purchase,Best Buy,Shopping,171.48
+2023-04-12,Coursera purchase,Coursera,Education,283.4
+2023-09-21,edX purchase,edX,Education,67.45
+2023-05-04,Netflix purchase,Netflix,Entertainment,138.68
+2024-02-21,Expedia purchase,Expedia,Travel,453.99
+2023-02-19,Airbnb purchase,Airbnb,Travel,157.36
+2023-04-02,Airbnb purchase,Airbnb,Travel,310.02
+2023-11-22,Expedia purchase,Expedia,Travel,64.03
+2023-09-18,Shell purchase,Shell,Transport,156.89
+2024-03-05,eBay purchase,eBay,Shopping,389.78
+2023-06-12,Airbnb purchase,Airbnb,Travel,91.21
+2024-03-23,Trader Joe's purchase,Trader Joe's,Groceries,25.92
+2023-08-26,Shell purchase,Shell,Transport,112.79
+2023-11-12,Local Store purchase,Local Store,Misc,132.26
+2023-12-28,Gas Supply purchase,Gas Supply,Utilities,379.33
+2023-05-07,Target purchase,Target,Shopping,321.8
+2023-08-18,Coursera purchase,Coursera,Education,83.78
+2023-04-03,Starbucks purchase,Starbucks,Dining,168.73
+2023-06-04,Lyft purchase,Lyft,Transport,27.48
+2023-05-04,CVS Pharmacy purchase,CVS Pharmacy,Health,366.02
+2023-11-06,Gas Supply purchase,Gas Supply,Utilities,292.32
+2023-11-04,Airbnb purchase,Airbnb,Travel,419.57
+2024-04-03,Cash Withdrawal purchase,Cash Withdrawal,Misc,125.19
+2024-05-03,Chipotle purchase,Chipotle,Dining,287.32
+2023-03-28,Health Clinic purchase,Health Clinic,Health,421.35
+2023-08-05,Lyft purchase,Lyft,Transport,139.3
+2024-01-09,Marriott purchase,Marriott,Travel,448.74
+2023-12-11,Starbucks purchase,Starbucks,Dining,359.32
+2023-12-06,Local Store purchase,Local Store,Misc,476.84
+2024-03-10,Uber purchase,Uber,Transport,371.39
+2023-06-28,Expedia purchase,Expedia,Travel,388.08
+2023-03-29,Starbucks purchase,Starbucks,Dining,19.42
+2023-11-21,AMC Theatres purchase,AMC Theatres,Entertainment,210.3
+2023-04-14,Udemy purchase,Udemy,Education,495.07
+2024-03-17,Walgreens purchase,Walgreens,Health,269.87
+2024-02-07,Udemy purchase,Udemy,Education,124.76
+2024-04-21,Starbucks purchase,Starbucks,Dining,162.7
+2023-05-29,ExxonMobil purchase,ExxonMobil,Transport,50.68
+2023-08-03,Electric Co purchase,Electric Co,Utilities,448.63
+2023-12-16,McDonald's purchase,McDonald's,Dining,254.54
+2024-02-15,Cash Withdrawal purchase,Cash Withdrawal,Misc,137.63
+2023-01-22,Health Clinic purchase,Health Clinic,Health,128.39
+2023-11-28,Coursera purchase,Coursera,Education,91.23
+2023-07-25,Spotify purchase,Spotify,Entertainment,270.61
+2024-06-06,Target purchase,Target,Shopping,378.13
+2023-03-03,Shell purchase,Shell,Transport,51.3
+2023-02-09,Walgreens purchase,Walgreens,Health,156.34
+2023-01-21,Cash Withdrawal purchase,Cash Withdrawal,Misc,326.29
+2023-09-23,Walgreens purchase,Walgreens,Health,344.25
+2024-02-06,Whole Foods purchase,Whole Foods,Groceries,182.98
+2024-04-05,Target purchase,Target,Shopping,290.22
+2023-12-21,McDonald's purchase,McDonald's,Dining,399.44
+2023-12-13,Marriott purchase,Marriott,Travel,157.08
+2023-06-25,Lyft purchase,Lyft,Transport,204.4
+2023-09-13,AMC Theatres purchase,AMC Theatres,Entertainment,119.02
+2024-02-18,edX purchase,edX,Education,491.05
+2024-06-24,Shell purchase,Shell,Transport,431.47
+2023-04-15,Udemy purchase,Udemy,Education,104.61
+2023-12-31,Spotify purchase,Spotify,Entertainment,393.21
+2024-06-09,Starbucks purchase,Starbucks,Dining,421.62
+2024-03-30,Cash Withdrawal purchase,Cash Withdrawal,Misc,472.78
+2023-01-07,edX purchase,edX,Education,335.27
+2023-07-15,Uber purchase,Uber,Transport,59.38
+2023-02-22,Cash Withdrawal purchase,Cash Withdrawal,Misc,484.11
+2024-03-26,Spotify purchase,Spotify,Entertainment,113.1
+2024-01-25,Udemy purchase,Udemy,Education,410.45
+2024-04-10,Coursera purchase,Coursera,Education,129.61
+2023-06-30,McDonald's purchase,McDonald's,Dining,402.45
+2024-05-03,AMC Theatres purchase,AMC Theatres,Entertainment,155.33
+2024-02-15,Health Clinic purchase,Health Clinic,Health,454.09
+2023-08-22,Udemy purchase,Udemy,Education,424.86
+2024-02-12,AMC Theatres purchase,AMC Theatres,Entertainment,114.17
+2023-06-21,Target purchase,Target,Shopping,265.59
+2023-03-17,Starbucks purchase,Starbucks,Dining,61.04
+2024-07-04,Health Clinic purchase,Health Clinic,Health,246.67
+2024-05-12,Udemy purchase,Udemy,Education,221.85
+2023-08-04,Skillshare purchase,Skillshare,Education,173.46
+2024-04-28,ExxonMobil purchase,ExxonMobil,Transport,108.09
+2024-06-23,Gift Shop purchase,Gift Shop,Misc,291.84
+2023-07-06,Health Clinic purchase,Health Clinic,Health,119.47
+2023-11-22,Airbnb purchase,Airbnb,Travel,81.35
+2023-08-26,Udemy purchase,Udemy,Education,311.44
+2024-05-27,Gas Supply purchase,Gas Supply,Utilities,318.82
+2023-10-03,Electric Co purchase,Electric Co,Utilities,377.33
+2023-01-18,Amazon purchase,Amazon,Shopping,427.68
+2023-09-05,edX purchase,edX,Education,43.14
+2023-06-01,Airbnb purchase,Airbnb,Travel,167.18
+2023-08-28,Coursera purchase,Coursera,Education,392.67
+2023-07-15,Chipotle purchase,Chipotle,Dining,251.74
+2023-09-19,Costco purchase,Costco,Groceries,61.34
+2023-01-21,Water Works purchase,Water Works,Utilities,367.56
+2023-03-14,Trader Joe's purchase,Trader Joe's,Groceries,499.37
+2023-10-02,Udemy purchase,Udemy,Education,471.76
+2023-01-08,Expedia purchase,Expedia,Travel,164.32
+2023-02-07,eBay purchase,eBay,Shopping,486.5
+2023-09-18,Hulu purchase,Hulu,Entertainment,306.96
+2023-11-07,Coursera purchase,Coursera,Education,236.47
+2023-03-26,Gas Supply purchase,Gas Supply,Utilities,279.16
+2023-03-12,AMC Theatres purchase,AMC Theatres,Entertainment,135.87
+2023-10-19,Cash Withdrawal purchase,Cash Withdrawal,Misc,61.32
+2023-08-26,Cash Withdrawal purchase,Cash Withdrawal,Misc,423.71
+2023-06-04,AMC Theatres purchase,AMC Theatres,Entertainment,158.53
+2024-05-20,Coursera purchase,Coursera,Education,315.69
+2023-12-08,Internet Provider purchase,Internet Provider,Utilities,378.94
+2023-02-26,Expedia purchase,Expedia,Travel,172.6
+2024-05-04,Internet Provider purchase,Internet Provider,Utilities,144.9
+2023-12-31,Gift Shop purchase,Gift Shop,Misc,143.89
+2023-01-29,AMC Theatres purchase,AMC Theatres,Entertainment,372.77
+2023-08-23,Delta purchase,Delta,Travel,202.59
+2023-01-26,Best Buy purchase,Best Buy,Shopping,176.09
+2023-11-28,Spotify purchase,Spotify,Entertainment,107.27
+2023-11-08,Gift Shop purchase,Gift Shop,Misc,322.55
+2023-10-08,edX purchase,edX,Education,275.05
+2024-04-01,Domino's purchase,Domino's,Dining,459.45
+2023-06-16,Amazon purchase,Amazon,Shopping,96.69
+2024-01-11,edX purchase,edX,Education,134.77
+2023-03-15,edX purchase,edX,Education,365.44
+2023-01-04,Electric Co purchase,Electric Co,Utilities,32.77
+2024-04-30,McDonald's purchase,McDonald's,Dining,432.94
+2024-02-20,Spotify purchase,Spotify,Entertainment,405.38
+2023-11-14,Health Clinic purchase,Health Clinic,Health,478.24
